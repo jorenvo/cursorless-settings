@@ -49,3 +49,11 @@ take, setSelection
 type deaf, revealTypeDefinition
 unfold, unfoldRegion
 wrap, wrapWithPairedDelimiter
+
+
+# 2024-07-03 20:46:32 - New entries automatically added by cursorless
+break, breakLine
+decrement, decrement
+follow split, followLinkAside
+increment, increment
+join, joinLines
